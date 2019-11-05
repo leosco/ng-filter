@@ -1,0 +1,12 @@
+{
+  "name": "ng-filter",
+  "version": "1.0.0",
+  "description": "Quick single-level string filter Angular pipe for viewing data",
+  "main": "filter.pipe.ts",
+  "repository": "git@github.com:leosco/ng-filter.git",
+  "author": "Leo Scordilis <leoscordilis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^8.2.13"
+  }
+}
