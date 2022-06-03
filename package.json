@@ -7,6 +7,6 @@
   "author": "Leo Scordilis <leoscordilis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@angular/core": "^8.2.13"
+    "@angular/core": "^11.0.5"
   }
 }
